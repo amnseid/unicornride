@@ -1,2 +1,2 @@
 # unicornride
-Terraform code from unicorn ride server-less application
+Terraform code for unicorn ride server-less application
